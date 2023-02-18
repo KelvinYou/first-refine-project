@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/first-refine-project/static/js/main.6549b107.js",
+    "static/js/787.44e022fc.chunk.js": "/first-refine-project/static/js/787.44e022fc.chunk.js",
+    "index.html": "/first-refine-project/index.html",
+    "main.6549b107.js.map": "/first-refine-project/static/js/main.6549b107.js.map",
+    "787.44e022fc.chunk.js.map": "/first-refine-project/static/js/787.44e022fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6549b107.js"
+  ]
+}
